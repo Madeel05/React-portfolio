@@ -1,5 +1,6 @@
 import React, { Suspense, useLayoutEffect } from "react";
 import { Routes, Route, useLocation } from 'react-router-dom';
+import Error from "./components/Error";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Loading from "./components/Loading";
@@ -33,6 +34,7 @@ function App() {
               <Route path="portfolio" element={<Portfolio />} />
               <Route path="contact" element={<Contact />} />
               <Route path="submitted" element={<Submitted/>}/>
+              <Route path="*" element={<Error/>}/>
             </Routes>
             <Footer />
           </main>
