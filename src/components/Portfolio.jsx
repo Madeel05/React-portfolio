@@ -142,6 +142,19 @@ const Portfolio = () => {
               </div>
             </div>
 
+            <div className="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div className="portfolio-wrap">
+                <img src="assets/img/portfolio/10.png" className="img-fluid" alt="" />
+                <div className="portfolio-info">
+                  <h4>IES</h4>
+                  <p>Website</p>
+                  <div className="portfolio-links">
+                    <a href="assets/img/portfolio/10.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Kehdo"><i className="bx bx-plus"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
             <div className="col-lg-4 col-md-6 portfolio-item filter-card">
               <div className="portfolio-wrap">
                 <img src="assets/img/portfolio/8.png" className="img-fluid" alt="" />
@@ -150,6 +163,19 @@ const Portfolio = () => {
                   <p>Web Portal</p>
                   <div className="portfolio-links">
                     <a href="assets/img/portfolio/8.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Kehdo"><i className="bx bx-plus"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div className="portfolio-wrap">
+                <img src="assets/img/portfolio/9.png" className="img-fluid" alt="" />
+                <div className="portfolio-info">
+                  <h4>Legacy Ventures</h4>
+                  <p>Website</p>
+                  <div className="portfolio-links">
+                    <a href="assets/img/portfolio/9.png" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Kehdo"><i className="bx bx-plus"></i></a>
                   </div>
                 </div>
               </div>

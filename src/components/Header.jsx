@@ -1,5 +1,5 @@
 import React from 'react';
-import {NavLink , Link} from 'react-router-dom';
+import {NavLink, Link} from 'react-router-dom';
 
 const Header = () => {
   return (
@@ -25,10 +25,10 @@ const Header = () => {
       </nav>
 
       <div className="header-social-links">
-        <Link to="/" className="twitter"><i className="bi bi-twitter"></i></Link>
-        <Link to="/" className="facebook"><i className="bi bi-facebook"></i></Link>
-        <Link to="/" className="instagram"><i className="bi bi-instagram"></i></Link>
-        <Link to="/" className="linkedin"><i className="bi bi-linkedin"></i></Link>
+        <a href="https://twitter.com/adeel_empire" target='blank' className="twitter"><i className="bi bi-twitter"></i></a>
+        <a href="https://web.facebook.com/profile.php?id=100092126255106" target='blank' className="facebook"><i className="bi bi-facebook"></i></a>
+        <a href="https://www.instagram.com/adeel_empire85/" target='blank' className="instagram"><i className="bi bi-instagram"></i></a>
+        <a href="/" className="linkedin"><i className="bi bi-linkedin"></i></a>
       </div>
 
     </div>
