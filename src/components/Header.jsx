@@ -25,10 +25,11 @@ const Header = () => {
       </nav>
 
       <div className="header-social-links">
-        <a href="https://twitter.com/adeel_empire" target='blank' className="twitter"><i className="bi bi-twitter"></i></a>
+        <a href="https://github.com/Madeel05" target='blank' className="twitter"><i className="bi bi-github"></i></a>
         <a href="https://web.facebook.com/profile.php?id=100092126255106" target='blank' className="facebook"><i className="bi bi-facebook"></i></a>
         <a href="https://www.instagram.com/adeel_empire85/" target='blank' className="instagram"><i className="bi bi-instagram"></i></a>
-        <a href="https://www.linkedin.com/in/adeel-empire-40a95227a/" target='blank' className="linkedin"><i className="bi bi-linkedin"></i></a>
+        <a href="https://www.linkedin.com/in/muhammad-adeel-40a95227a" target='blank' className="linkedin"><i className="bi bi-linkedin"></i></a>
+        <a href="https://stackoverflow.com/users/20173322/adeel-empire?tab=profile" target='blank' className="linkedin"><i className="bi bi-stack-overflow"></i></a>
       </div>
 
     </div>

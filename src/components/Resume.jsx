@@ -57,7 +57,7 @@ const Resume = () => {
               </div>
               <div className="resume-item">
                 <h4>Web app developer </h4>
-                <h5>2021 - *</h5>
+                <h5>DEC 2021 - JAN 2024</h5>
                 <p><em>Legacy Ventuers </em></p>
                 <p>
                   <ul>

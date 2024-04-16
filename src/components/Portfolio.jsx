@@ -181,6 +181,19 @@ const Portfolio = () => {
               </div>
             </div>
 
+            <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+              <div className="portfolio-wrap">
+                <img src="assets/img/portfolio/11.jpg" className="img-fluid" alt="" />
+                <div className="portfolio-info">
+                  <h4>Daily Kitchen</h4>
+                  <p>Web Portal</p>
+                  <div className="portfolio-links">
+                    <a href="assets/img/portfolio/11.jpg" data-gallery="portfolioGallery" className="portfolio-lightbox" title="Daily Kitchen"><i className="bx bx-plus"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
       </section>
